@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://minhajul-islam-portfolio.netlify.app/](https://minhajul-islam-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://my-portfolio-psi-ten-98.vercel.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **WEB DEVELOPMENT**
 
 - 📫 How to reach me **mdminhajulislamshobuj@gmail.com**
 
