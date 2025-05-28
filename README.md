@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/qNKjsbH/Md-Minhajul-Islam-1586-396px.png)](https://minhajul-islam-portfolio.netlify.app/)
+[![MasterHead](https://res.cloudinary.com/dazztziwj/image/upload/v1748427541/Screenshot_2025-05-28_161304_yc4mmi.png)](https://minhajul-islam-portfolio.netlify.app/)
 <h1 align="center">Hi 👋, I'm Md Minhajul Islam</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
