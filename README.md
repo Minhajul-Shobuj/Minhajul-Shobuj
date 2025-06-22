@@ -19,14 +19,9 @@
 
 - 📫 How to reach me **mdminhajulislamshobuj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wCSuZsSowmMC\_-0UMREJPSUqdAik9pwt/view?usp=sharing](https://drive.google.com/file/d/1wCSuZsSowmMC_-0UMREJPSUqdAik9pwt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wCSuZsSowmMC\_-0UMREJPSUqdAik9pwt/view?usp=sharing](https://drive.google.com/file/d/1RSKKC2dCWBH3JJZi6s5UfAloZrJLEaIZ/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
